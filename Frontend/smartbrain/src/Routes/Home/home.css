@@ -1,0 +1,8 @@
+.ilf_fReg {
+	width: 100%;
+	min-height: 455px;
+	display: grid;
+	place-items: center;
+	grid-template-rows: auto 1fr;
+	/* background: black; */
+}

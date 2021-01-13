@@ -1,0 +1,22 @@
+.face_recognition {
+	height: 100%;
+	width: 100%;
+	display: grid;
+	place-items: center;
+}
+
+.fReg_placeholder {
+	height: 100px;
+	width: 100px;
+}
+
+.fReg_groupImage {
+	margin: 50px;
+	border-radius: 10px;
+	height: auto;
+	box-shadow: 0.2px 0.2px 5px 1px grey;
+	/* max-width: 500px; */
+	width: 82%;
+	margin-left: 50px;
+	margin-right: 50px;
+}
