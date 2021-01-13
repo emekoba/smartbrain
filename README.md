@@ -1,0 +1,1 @@
+smartbrain is a vanity project of mine that simply incorporates image detection apis to detect faces of any image provided, the most probable prevalent color in an image etc.. through a link provided by the user. feel free to clone and mess with..cheers.
